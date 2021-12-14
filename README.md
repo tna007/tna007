@@ -7,7 +7,7 @@
 
 #### 🔭 My current project
 
-[A ticket webshop built with Drupal 9](https://github.com/Citrus-project-drupal) that currently I'm working on at Full stack web development module in Business College Helsinki.
+[A ticket webshop built with Drupal 9](https://github.com/tna007/pantheon-dc) that currently I'm working on at Full stack web development module in Business College Helsinki.
 
 #### 🌱 I’m currently learning
 
