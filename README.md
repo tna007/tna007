@@ -7,11 +7,11 @@
 
 #### 🔭 My current project
 
-[A ticket webshop built with Drupal 9](https://github.com/tna007/pantheon-dc) that currently I'm working on at Full stack web development module in Business College Helsinki.
+JPMorgan Chase & Co Software Engineering Virtual Experience that currently I'm working on at [The Forage](https://www.theforage.com/login).
 
 #### 🌱 I’m currently learning
 
-React Redux, Drupal framework and Amazon Web Services.
+Python, TypeScript and AWS.
 
 #### 🎯 My next project
 
