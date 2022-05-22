@@ -49,7 +49,7 @@ React Testing Library, TypeScript, Python.
 [<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="30" height="30"/>][linkedin]
 
 [linkedin]: https://linkedin.com/in/anhngocto
-
-<hr>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tna007&theme=neon-palenight&hide_border=true)
+<p align='left'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tna007&show_icons=true&locale=en&theme=vision-friendly-dark&layout=compact" alt="tna007-top-languages-stat" />
 <p align='center'><!-- <img src= 'https://profile-counter.glitch.me/{tna007}/count.svg'/> -->
 Thanks for visiting my profile!</p>
