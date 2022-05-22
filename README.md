@@ -7,11 +7,11 @@
 
 #### 🔭 My current project
 
-JPMorgan Chase & Co Software Engineering Virtual Experience that currently I'm working on at [The Forage](https://www.theforage.com/login).
+ I'm bucked up with Design System at OP Financial Group at the moment but will update one of my hobby project soon 🤞.
 
 #### 🌱 I’m currently learning
 
-Python, TypeScript and AWS.
+React Testing Library, TypeScript, Python.
 
 #### 🎯 My next project
 
@@ -50,7 +50,6 @@ Python, TypeScript and AWS.
 
 [linkedin]: https://linkedin.com/in/anhngocto
 
-<p align='left'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tna007&show_icons=true&locale=en&theme=vision-friendly-dark&layout=compact" alt="tna007-top-languages-stat" /></p>
 <hr>
 <p align='center'><!-- <img src= 'https://profile-counter.glitch.me/{tna007}/count.svg'/> -->
 Thanks for visiting my profile!</p>
