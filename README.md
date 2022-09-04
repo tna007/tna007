@@ -7,7 +7,7 @@
 
 #### 🔭 My current project
 
- I'm bucked up with Design System at OP Financial Group at the moment but will update one of my hobby project soon 🤞.
+ I'm working with Frontend Engineering and Design System at OP Financial Group at the moment but will update one of my hobby project soon 🤞.
 
 #### 🌱 I’m currently learning
 
