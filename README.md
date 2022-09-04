@@ -11,7 +11,7 @@
 
 #### 🌱 I’m currently learning
 
-React Testing Library, TypeScript, Python.
+TypeScript, Cyber Security and Python.
 
 #### 🎯 My next project
 
