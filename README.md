@@ -5,13 +5,9 @@
 
 ---
 
-#### 🔭 My current project
-
- I'm working with Frontend Engineering and Design System at OP Financial Group at the moment but will update one of my hobby project soon 🤞.
-
 #### 🌱 I’m currently learning
 
-TypeScript, Cyber Security and Python.
+TypeScript, Cyber Security and Java.
 
 #### 🎯 My next project
 
