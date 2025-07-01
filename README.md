@@ -7,7 +7,7 @@
 
 #### 🌱 I’m currently learning
 
-TypeScript, Cyber Security and Java.
+Cyber Security and Data Analysis.
 
 #### 🎯 My next project
 
